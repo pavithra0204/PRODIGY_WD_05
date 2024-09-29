@@ -1,0 +1,1 @@
+As a web development intern at PRODIGY i've successfully completed mt final task as weather app using html, css, javascript . this task involves building a weather data page that fetches weather information from a weather API based on the user's location or a user-inputted location.
